@@ -94,6 +94,9 @@ h1 {
     font-weight: 100;
     padding-top: 3px
 }
+#store {
+    padding-right: 8px;
+}
 #alumni{
     padding-right: 15px;
 }
