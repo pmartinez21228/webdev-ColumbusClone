@@ -1,1 +1,112 @@
-/* CSS code  */
+.blue {
+    background-color: #10243B;
+}
+nav {
+    background-image: url(https://bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png);
+    height: 52px;
+}
+html {
+    margin-top: -10px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+.inline {
+    display: inline;
+}
+h1 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.125em;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 1px;
+}
+.left {
+    float: left;
+}
+.divider {
+    width: 5px;
+    opacity: 0;
+}
+#aboutus {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#admissions {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#academiclife {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#faithservice {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#studentlife {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#guidance {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#athletics {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.right {
+    float: right;
+}
+#search {
+    height: 52px;
+    width: 50px;
+    background-color: #005983;
+}
+#searchpicture {
+    padding-top: 13px;
+    padding-left: 12.5px;
+}
+.vl {
+    border-left: 1px solid white;
+    height: 52px;
+  }
+  #mycchs {
+      background-color: #005983;
+      width: 72.42px;
+      height: 52px;
+  }
+  #mycchstext {
+      font-size: 1rem;
+      padding-left: 10px;
+      padding-top: 3px;
+      text-shadow: 0px 2px 3px #333333;
+      letter-spacing: .05rem;
+      transform: scale(1,.9)
+  }
+  h2 {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1rem;
+    text-transform: uppercase;
+    color: #A3DDE8;
+    letter-spacing: .05rem;
+    font-weight: 100;
+    padding-top: 3px
+}
+#alumni{
+    padding-right: 15px;
+}
+#support{
+    padding-right: 15px;
+}
+#calendar{
+    padding-right: 15px;
+}
+#maristlogo{
+    padding-right: 20px;
+    padding-top: 5px;
+}
+.gold {
+    color: #DFD2B0;
+}
