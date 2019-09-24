@@ -110,3 +110,14 @@ h1 {
     padding-right: 20px;
     padding-top: 5px;
 }
+#herosection{
+    background-image: url(https://bbk12e1-cdn.myschoolcdn.com/709/photo/large_photo533500_7258085.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    height: 89vh;
+}
+#clogo {
+    float: left !important;
+}
