@@ -123,8 +123,8 @@ h1 {
     padding-right: 32px;
     padding-top: 3px;
 }
-#herosection{
-    background-image: url(https://bbk12e1-cdn.myschoolcdn.com/709/photo/large_photo533500_7258085.png);
+#herosection{    
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0), transparent), url(https://bbk12e1-cdn.myschoolcdn.com/709/photo/large_photo533500_7258085.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -200,4 +200,25 @@ h1 {
     background-image: url(https://bbk12e1-cdn.myschoolcdn.com/ftpimages/709/link/large_link754432_115667.JPG);
     background-position: center;
     background-size: cover;
+}
+#glance{
+    width: 1185px;
+    height: 550px;
+    margin: 30px 367px 0px 367px;
+}
+#glancetext{
+    color: #00344C;
+    text-align: center;
+    font-size: 3em;
+}
+#slides{
+    margin-top: 30px;
+}
+.textslide{
+    display: inline-block;
+    width: 24%;
+    height: 432px;
+}
+.textpic{
+    padding-bottom: 30px;
 }
