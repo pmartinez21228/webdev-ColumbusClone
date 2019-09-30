@@ -279,3 +279,23 @@ h3{
     text-transform: capitalize;
     letter-spacing: .8px;
 }
+#whitepadding{
+    width: 100%;
+    height: 64px;
+}
+#colleges{
+    width: 100%;
+    height: 326px;
+    border-top: 1px solid goldenrod;
+    border-bottom: 1px solid goldenrod;
+    background-image: url(//bbk12e1-cdn.myschoolcdn.com/ftpimages/709/site/1075/images/bg.png);
+}
+#collegetext{
+    padding-top: 50px;
+}
+#collegetext1{
+    text-align: center;
+    color: #00344C;
+    text-transform: none;
+    font-size: 1.125em;
+}
