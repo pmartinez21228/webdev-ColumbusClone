@@ -349,3 +349,37 @@ h3{
     height: 102px;
     width: 100%;
 }
+#footertext1{
+    font-weight: 300;
+    font-size: .875em;
+    letter-spacing: .05em;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 32px;
+}
+#textbottom{
+    width: 985px;
+    height: 160px;
+}
+#bottomtext1{
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    color: #f0e6e681;
+    text-transform: none;
+    font-weight: 100;
+    padding-top: 50px;
+    letter-spacing: normal;
+}
+#bottomtext2{
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-size: .875em;
+    color: #f0e6e681;
+    text-transform: none;
+    font-weight: 100;
+    padding-top: 20px;
+    letter-spacing: normal;
+}
+#maristlogo1{
+    margin-top: 30px;
+}
